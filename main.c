@@ -15,6 +15,6 @@ int main(void) {
   double Fahrenheit = (Celsius * 9/5) + 32;
 
   printf("%f", Celsius);
-  printf("° in Celsius is equivalent to %f ° Fahrenheit.\n", Fahrenheit);
+  printf("° in Celsius is equivalent to %f °Fahrenheit.\n",Fahrenheit);
   return 0;
 }
